@@ -1,3 +1,4 @@
+
 ##artifact build stage
 FROM maven AS buildstage
 RUN mkdir /opt/mindcircuit13
